@@ -302,7 +302,7 @@ img {
 }
 
 .top {
-  background-image: url(https://github.com/kusuha/gokurakutei/image/top-mv_sp.png);
+  background-image: url(./image/top-mv_sp.png);
   background-position: center;
   background-size: cover;
   height: 674px;
@@ -312,7 +312,7 @@ img {
 
 @media print, screen and (min-width: 768px) {
   .top {
-    background-image: url(https://github.com/kusuha/gokurakutei/image/top-bg.png);
+    background-image: url(./image/top-bg.png);
   }
 }
 
